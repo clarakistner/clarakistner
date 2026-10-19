@@ -21,7 +21,7 @@ Gosto de entender como um processo manual funciona e pensar em como automatizá-
 - Intercâmbio acadêmico — English Path, Londres (2025)
 
 **Cursos**
-- Java — Entra21 (em andamento, 2026)
+- Java — Entra21 (2026)
 - Formação Continuada em Língua Inglesa — IFSC (em andamento)
 
 ---
